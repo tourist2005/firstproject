@@ -1,3 +1,3 @@
 # firstproject
 my first repository
-author-niraj jaiswal
+author-niraj Kumar;
